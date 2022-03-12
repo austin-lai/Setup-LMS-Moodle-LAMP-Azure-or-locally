@@ -1,4 +1,4 @@
-# Setup-LMS-Moodle-LAMP-Azure-or-locally
+# Setup LMS Moodle LAMP Azure or locally
 
 > Austin Lai | March 12th, 2022
 
@@ -18,7 +18,7 @@ You may pair with IaC (Infrastructure as Code) such as Terraform and Ansible to 
 
 <!-- TOC -->
 
-- [Setup-LMS-Moodle-LAMP-Azure-or-locally](#setup-lms-moodle-lamp-azure-or-locally)
+- [Setup LMS Moodle LAMP Azure or locally](#setup-lms-moodle-lamp-azure-or-locally)
     - [Table of Contents](#table-of-contents)
     - [Bash Scripts to create Moodle - Learning Management System with LAMP in Azure or locally.](#bash-scripts-to-create-moodle---learning-management-system-with-lamp-in-azure-or-locally)
 
@@ -28,7 +28,7 @@ You may pair with IaC (Infrastructure as Code) such as Terraform and Ansible to 
 
 **Disclaimer:** 
 
-- Script does not take security into consideration, may you need to harden the system according to NIST or CIS hardening guide.
+- Script does not take security into consideration, you may need to harden the system according to NIST or CIS hardening guide.
 - The build only for **development usage** and **NOT** for **PRODUCTION**
 
 ```bash
